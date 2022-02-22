@@ -1,3 +1,3 @@
 # Jet-Fighters
 
-pew pew
+Arrow keys for player one, wasd for player two
