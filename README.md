@@ -1,3 +1,3 @@
-# Jet-Fighters
+# Jets
 
-Arrow keys for player one, wasd for player two
+A vector addition demonstration by Eric Kugel
